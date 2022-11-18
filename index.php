@@ -1,3 +1,3 @@
 <?php
 
-echo 'hello CEO SAAB';
+echo 'Hello from nodespay';
